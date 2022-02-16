@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource consists of student questions and their answers.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-01-neuroscience-and-behavior-fall-2003/f0a4a4b406ff09d2b644797310835130_student_ques_3.pdf
+file: /media/courses/9-01-neuroscience-and-behavior-fall-2003/f0a4a4b406ff09d2b644797310835130_student_ques_3.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: student_ques_3.pdf
 uid: f0a4a4b4-06ff-09d2-b644-797310835130

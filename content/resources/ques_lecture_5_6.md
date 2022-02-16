@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource lists 17 study questions for lecture 5, 6.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-01-neuroscience-and-behavior-fall-2003/54904e432bc781ef0aa08ed7f614f6f9_ques_lecture_5_6.pdf
+file: /media/courses/9-01-neuroscience-and-behavior-fall-2003/54904e432bc781ef0aa08ed7f614f6f9_ques_lecture_5_6.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: ques_lecture_5_6.pdf
 uid: 54904e43-2bc7-81ef-0aa0-8ed7f614f6f9

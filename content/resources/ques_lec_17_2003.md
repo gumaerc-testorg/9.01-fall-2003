@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource lists 6 study questions for lecture 17.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-01-neuroscience-and-behavior-fall-2003/a9b2ed664d0c3b4524fd27664837e193_ques_lec_17_2003.pdf
+file: /media/courses/9-01-neuroscience-and-behavior-fall-2003/a9b2ed664d0c3b4524fd27664837e193_ques_lec_17_2003.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: ques_lec_17_2003.pdf
 uid: a9b2ed66-4d0c-3b45-24fd-27664837e193
