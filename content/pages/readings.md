@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The readings section provides breakdown of the readings as per the topics
+  along with study questions relevant to assigned readings in a table format.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -46,7 +48,7 @@ readings
 Introduction to Brain-behavior Studies
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/rsq_1))
+({{% resource_link 50d8577f-66bb-fb62-be86-70d822d2c6ca "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Mackay, Donald M. "The Bankruptcy of Determinism." _New Scientist_ 2 (1970): 24-26.
@@ -61,7 +63,7 @@ Mackay, Donald M. "The Bankruptcy of Determinism." _New Scientist_ 2 (1970): 24-
 History and Goals, II
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/rsq_2))
+({{% resource_link 3c646201-661a-113b-ef1f-181ebaed06df "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Rosenzweig, chapter 1.
@@ -76,7 +78,7 @@ Rosenzweig, chapter 1.
 History and Goals, III
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/rsq_3))
+({{% resource_link d767679f-dc6d-a902-d8e8-5e47ca25b034 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Rosenzweig, chapter 1.  
@@ -97,7 +99,7 @@ Gazzaniga, chaper 1.
 History and Goals, IV
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/sq4))
+({{% resource_link 133581c6-b5ab-03eb-6c5e-e2b2b3c5082d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Rosenzweig, chapter 2.  
@@ -118,7 +120,7 @@ Nauta and Feirtag, chapters 2-3.
 Cellular Mechanisms
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/sq5))
+({{% resource_link d2f51b98-addc-1539-46ae-4f9c3c48dfaf "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Rosenzweig, chapters 2-5.  
@@ -141,7 +143,7 @@ Nauta and Feirtag, chapters 2-3.
 Neuronal Conduction and Transmission
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/rsq_6))
+({{% resource_link 89365372-db40-7296-35d3-68a4abcd790b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -170,7 +172,7 @@ Synapses
 Neuroanatomical Techniques
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lectures_7_8))
+({{% resource_link 3cab5f3f-2e7c-1a71-35a0-e86f07549368 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Rosenzweig, chapters 3-4.  
@@ -191,7 +193,7 @@ Nauta and Feirtag, chapters 1-4.
 Introduction to CNS and its Evolution
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lectures_7_8))
+({{% resource_link 3cab5f3f-2e7c-1a71-35a0-e86f07549368 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Rosenzweig, chapter 6.  
@@ -212,7 +214,7 @@ Evolution (cont.)
 Reflex and Cerebellar Channels
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/questions_lec9))
+({{% resource_link df211242-0df4-4878-03f9-a8647eaec8d9 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Rosenzweig, chapters 2 and 6.  
@@ -262,7 +264,7 @@ Transection Effects
 Neocortex
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF 1]({{< baseurl >}}/resources/sq11)) ([PDF 2]({{< baseurl >}}/resources/sqa11)) ([PDF 3]({{< baseurl >}}/resources/rsq_11))
+({{% resource_link a3edc3ae-b9ee-08bc-8f22-5780331acf04 "PDF 1" %}}) ({{% resource_link 291e26ff-6b74-6640-338e-5605de3113e7 "PDF 2" %}}) ({{% resource_link b20c23eb-2790-5039-91b2-7f5c17a4d9c8 "PDF 3" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Gazzaniga, chapter 3b.  
@@ -285,7 +287,7 @@ Spinal Cord
 Autonomic NS
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/rsq_12))
+({{% resource_link dea690ea-f7bb-c009-5900-c1f1fa5b2ad7 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Gazzaniga, chapter 3b.  
@@ -344,7 +346,7 @@ Nauta and Feirtag, chapters 5-10a.
 Development of CNS, Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_15))
+({{% resource_link 33a4fc3d-0d1d-1e9d-1875-2c57108bbed1 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Rosenzweig, chapter 7.  
@@ -418,7 +420,7 @@ Rosenzweig, chapter 7.
 Motor System, 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec19_study_ques))
+({{% resource_link 00cd0dbc-a776-cc9a-780f-032d6c187108 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Bizzi, E., S. F. Giszter, E. Loeb, F. A. Mussa-Ivaldi, and P. Saltiel. "Modular Organization of Motor Behavior in the Frog's Spinal Cord." _Trends in Neuroscience_ 18, no. 10 (October 1995): 442-446.  
@@ -441,7 +443,7 @@ Nauta and Feirtag, chapter 7a.
 Motor System, 2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/sq20))
+({{% resource_link 0fdc12f5-92b2-4402-ab30-ff0b1b9cb3ff "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Gazzaniga, chapter 3b and 10.  
@@ -462,7 +464,7 @@ Nauta and Feirtag, chapter 7a.
 Motor System, 3
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/rsq_21))
+({{% resource_link 6d7c1b69-74ad-718c-92e2-027488013df1 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Gazzaniga, chapter 3b and 10.  
@@ -506,7 +508,7 @@ Rhythms of Activity
 Sleep and Waking
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_23))
+({{% resource_link 92961053-9a82-60bd-d11d-659e2e75d57f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Gazzaniga, chapter 3b.  
@@ -567,7 +569,7 @@ Rosenzweig, chapter 14.
 Visual System 1: Anatomy, Ablations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/readings_lec26))
+({{% resource_link 9f3a0376-aa30-5dd7-5b9f-0beb6a061ff1 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Gazzaniga, chapters 3b and 4.  
@@ -584,7 +586,7 @@ Rosenzweig, chapters 8a, 10, and 18, pp. 581-2.
 Visual System 2: Physiology (Orig: Ablation Effects)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/sq27))
+({{% resource_link 3110a7dd-0d1d-cb12-9493-bc9d065fbca1 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Gazzaniga, chapter 3b.  
@@ -633,7 +635,7 @@ Gazzaniga, chapters 3b and 4.
 Visual System Conclusion
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/rsq_30))
+({{% resource_link 5653f304-63da-e91c-0d3a-1580da20cc8e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Gazzaniga, chapters 3b and 4-5.  
@@ -684,7 +686,7 @@ Rosenzweig, chapter 9.
 Hypothalamus and Feeding
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/9_01_lecture33))
+({{% resource_link 72972063-3a03-8fad-f1ea-07ebb0d6600b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Gazzaniga, chapters 3b and 4-5.  
@@ -703,7 +705,7 @@ Drive, Reward
 Agonistic Behavior
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/sq34))
+({{% resource_link ba6bbd3b-ffdf-8038-e7e7-2ed5d75c2407 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Gazzaniga, chapter 3b.  
@@ -722,7 +724,7 @@ Higher Functions
 Human Nature
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/rsq_35))
+({{% resource_link f1c80257-70b2-c84e-7417-e69ec0c0bddc "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Gazzaniga, chapter 3b.  
@@ -739,7 +741,7 @@ Rosenzweig, chapters 12-13 and 15.
 Human Nature and Neuroscience
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/rsq_36))
+({{% resource_link bb21223b-7a27-6a28-581e-c36f719facf9 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Gazzaniga, chapter 3b.  
