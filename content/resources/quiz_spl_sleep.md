@@ -6,6 +6,7 @@ file: /courses/9-01-neuroscience-and-behavior-fall-2003/bc7f937769714bd8d42258e7
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: quiz_spl_sleep.pdf
 uid: bc7f9377-6971-4bd8-d422-58e7b2586d6c
 ---
 This resource includes a set of questions that were asked during end-of-class quizon the topic Sleep.
-

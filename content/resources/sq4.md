@@ -6,6 +6,7 @@ file: /courses/9-01-neuroscience-and-behavior-fall-2003/133581c6b5ab03eb6c5ee2b2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: sq4.pdf
 uid: 133581c6-b5ab-03eb-6c5e-e2b2b3c5082d
 ---
 This resource provides study questions for lecture 4 assigned readings (History and Goals IV).
-

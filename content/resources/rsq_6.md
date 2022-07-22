@@ -6,6 +6,7 @@ file: /courses/9-01-neuroscience-and-behavior-fall-2003/89365372db40729635d368a4
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: rsq_6.pdf
 uid: 89365372-db40-7296-35d3-68a4abcd790b
 ---
 This resource provides study questions for lecture 6 assigned readings (Neuronal Conduction and Transmission).
-

@@ -6,6 +6,7 @@ file: /courses/9-01-neuroscience-and-behavior-fall-2003/00cd0dbca776cc9a780f032d
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec19_study_ques.pdf
 uid: 00cd0dbc-a776-cc9a-780f-032d6c187108
 ---
 Thie resource provides readings study questions for Lecture 19 (Motor System 1).
-

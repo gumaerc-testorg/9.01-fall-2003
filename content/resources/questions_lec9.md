@@ -6,6 +6,7 @@ file: /courses/9-01-neuroscience-and-behavior-fall-2003/df2112420df4487803f9a864
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: questions_lec9.pdf
 uid: df211242-0df4-4878-03f9-a8647eaec8d9
 ---
 This resource provides readings study questions for lectures 9 and 10 (Reflex and Cerebellar Channels, Brain Subdivisions, Channels of Conduction)
-

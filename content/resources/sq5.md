@@ -6,6 +6,7 @@ file: /courses/9-01-neuroscience-and-behavior-fall-2003/d2f51b98addc153946ae4f9c
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: sq5.pdf
 uid: d2f51b98-addc-1539-46ae-4f9c3c48dfaf
 ---
 This resource provides study questions for lecture 5 assigned readings (Cellular Mechanisms).
-
