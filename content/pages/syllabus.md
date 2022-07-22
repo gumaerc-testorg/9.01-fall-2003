@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The syllabus contains an overview of the course along with information
+  about texts and readings, study questions, quizzes, writing requirements and  grading
+  criteria of the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 500ecdf4-6d7f-afef-f448-6a08850fb1d0
 ---
