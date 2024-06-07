@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides study questions for lecture 1 assigned readings
   (Introduction to Brain-behavior Studies).
 file: /courses/9-01-neuroscience-and-behavior-fall-2003/50d8577f66bbfb62be8670d822d2c6ca_rsq_1.pdf
+file_size: 87417
 file_type: application/pdf
 learning_resource_types:
 - Readings

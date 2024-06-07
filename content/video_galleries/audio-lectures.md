@@ -45,4 +45,6 @@ videos:
 ---
 The materials on this page are representative of the work and pedagogy developed by Professor Gerald Schneider. Your use of these course materials is subject to the conditions and terms of use in our [Legal Notices](/terms) section.
 
+\*NOTE: Audio lectures 23, 30, 32-37 are not available.
+
 {{< video-gallery "dd6b8aa9-8acb-d869-4546-7334c01becfd" >}}

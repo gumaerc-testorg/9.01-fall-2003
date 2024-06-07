@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource lists 17 study questions for lecture 5, 6.
 file: /courses/9-01-neuroscience-and-behavior-fall-2003/54904e432bc781ef0aa08ed7f614f6f9_ques_lecture_5_6.pdf
+file_size: 99142
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource lists 6 study questions for lecture 25.
 file: /courses/9-01-neuroscience-and-behavior-fall-2003/5c4e27e5d8887996dbd5b2f0d00baab1_ques_lec_25_2003.pdf
+file_size: 109014
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

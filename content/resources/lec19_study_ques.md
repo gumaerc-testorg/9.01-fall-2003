@@ -3,6 +3,7 @@ content_type: resource
 description: Thie resource provides readings study questions for Lecture 19 (Motor
   System 1).
 file: /courses/9-01-neuroscience-and-behavior-fall-2003/00cd0dbca776cc9a780f032d6c187108_lec19_study_ques.pdf
+file_size: 51748
 file_type: application/pdf
 learning_resource_types:
 - Readings
