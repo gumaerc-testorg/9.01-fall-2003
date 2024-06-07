@@ -6,6 +6,7 @@ description: 'This resource lists main points on the goals, the neuron, evolutio
   action patterns (FAPs), motor systems 2: descending pathways and higher control
   and other topics.'
 file: /courses/9-01-neuroscience-and-behavior-fall-2003/92afefb8c8f2adc93212a89dc0fe598b_grand_scheme_1.pdf
+file_size: 162887
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

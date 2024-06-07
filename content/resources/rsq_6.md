@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides study questions for lecture 6 assigned readings
   (Neuronal Conduction and Transmission).
 file: /courses/9-01-neuroscience-and-behavior-fall-2003/89365372db40729635d368a4abcd790b_rsq_6.pdf
+file_size: 94300
 file_type: application/pdf
 learning_resource_types:
 - Readings

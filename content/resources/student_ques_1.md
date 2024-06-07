@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource consists of student questions and their answers.
 file: /courses/9-01-neuroscience-and-behavior-fall-2003/369bb9397979af951247094c64392d9e_student_ques_1.pdf
+file_size: 96007
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
