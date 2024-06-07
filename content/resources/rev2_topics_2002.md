@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource consists of review topics for second half of semester.
 file: /courses/9-01-neuroscience-and-behavior-fall-2003/f7cd250196c937f823c8afa8d38f491d_rev2_topics_2002.pdf
+file_size: 59276
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

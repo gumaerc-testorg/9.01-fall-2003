@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides readings study questions for lectures 9 and 10
   (Reflex and Cerebellar Channels, Brain Subdivisions, Channels of Conduction)
 file: /courses/9-01-neuroscience-and-behavior-fall-2003/df2112420df4487803f9a8647eaec8d9_questions_lec9.pdf
+file_size: 49208
 file_type: application/pdf
 learning_resource_types:
 - Readings

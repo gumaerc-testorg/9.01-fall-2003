@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource lists 71 study review questions for second half of semester.
 file: /courses/9-01-neuroscience-and-behavior-fall-2003/f17f26b02275ebbfc60a1a4d12af9be0_rev2_ques_2003.pdf
+file_size: 137527
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

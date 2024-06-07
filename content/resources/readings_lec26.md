@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource provides readings study questions on lecture 26 (Visual
   System 1: Anatomy, Ablations).'
 file: /courses/9-01-neuroscience-and-behavior-fall-2003/9f3a0376aa305dd75b9f0beb6a061ff1_readings_lec26.pdf
+file_size: 48632
 file_type: application/pdf
 learning_resource_types:
 - Readings
