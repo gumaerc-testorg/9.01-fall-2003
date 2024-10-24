@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides study questions for lecture 3 assigned readings
   (History and Goals, III).
-file: /courses/9-01-neuroscience-and-behavior-fall-2003/d767679fdc6da902d8e85e47ca25b034_rsq_3.pdf
+file: /ol-ocw-studio-app/courses/9-01-neuroscience-and-behavior-fall-2003/d767679fdc6da902d8e85e47ca25b034_rsq_3.pdf
 file_size: 95621
 file_type: application/pdf
 learning_resource_types:

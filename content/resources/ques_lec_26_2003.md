@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource lists 8 study questions for lecture 26.
-file: /courses/9-01-neuroscience-and-behavior-fall-2003/000d8166af37031040d6816e59bb9456_ques_lec_26_2003.pdf
+file: /ol-ocw-studio-app/courses/9-01-neuroscience-and-behavior-fall-2003/000d8166af37031040d6816e59bb9456_ques_lec_26_2003.pdf
 file_size: 94899
 file_type: application/pdf
 learning_resource_types: []
