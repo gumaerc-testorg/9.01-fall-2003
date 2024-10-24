@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource lists 10 study questions for lecture 1.
-file: /courses/9-01-neuroscience-and-behavior-fall-2003/8d306a12daa39d1d54a44be9972b9466_ques_lecture_1.pdf
+file: /ol-ocw-studio-app/courses/9-01-neuroscience-and-behavior-fall-2003/8d306a12daa39d1d54a44be9972b9466_ques_lecture_1.pdf
 file_size: 99857
 file_type: application/pdf
 learning_resource_types: []

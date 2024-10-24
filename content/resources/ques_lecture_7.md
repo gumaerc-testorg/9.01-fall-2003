@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource lists 8 study questions for lecture 7.
-file: /courses/9-01-neuroscience-and-behavior-fall-2003/dcaf5a9ed042b7d2efcfbe6426a0152c_ques_lecture_7.pdf
+file: /ol-ocw-studio-app/courses/9-01-neuroscience-and-behavior-fall-2003/dcaf5a9ed042b7d2efcfbe6426a0152c_ques_lecture_7.pdf
 file_size: 94031
 file_type: application/pdf
 learning_resource_types: []
