@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides readings study questions on lecture (Pain and
   the Midbrain Central Grey Area).
-file: /ol-ocw-studio-app/courses/9-01-neuroscience-and-behavior-fall-2003/729720633a038fadf1ea07ebb0d6600b_9_01_lecture33.pdf
+file: /courses/9-01-neuroscience-and-behavior-fall-2003/729720633a038fadf1ea07ebb0d6600b_9_01_lecture33.pdf
 file_size: 57661
 file_type: application/pdf
 learning_resource_types:

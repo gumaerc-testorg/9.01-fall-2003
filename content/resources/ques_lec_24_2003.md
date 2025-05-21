@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource lists 12 study questions for lecture 24.
-file: /ol-ocw-studio-app/courses/9-01-neuroscience-and-behavior-fall-2003/82a77bf66a0dc86f0b3fd4857663303a_ques_lec_24_2003.pdf
+file: /courses/9-01-neuroscience-and-behavior-fall-2003/82a77bf66a0dc86f0b3fd4857663303a_ques_lec_24_2003.pdf
 file_size: 106671
 file_type: application/pdf
 learning_resource_types: []

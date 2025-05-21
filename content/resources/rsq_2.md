@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides study questions for lecture 2 assigned readings
   (History and Goals, II).
-file: /ol-ocw-studio-app/courses/9-01-neuroscience-and-behavior-fall-2003/3c646201661a113bef1f181ebaed06df_rsq_2.pdf
+file: /courses/9-01-neuroscience-and-behavior-fall-2003/3c646201661a113bef1f181ebaed06df_rsq_2.pdf
 file_size: 96793
 file_type: application/pdf
 learning_resource_types:

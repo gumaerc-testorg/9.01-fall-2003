@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides readings study questions on lecture 30 (Visual
   System Conclusion).
-file: /ol-ocw-studio-app/courses/9-01-neuroscience-and-behavior-fall-2003/5653f30463dae91c0d3a1580da20cc8e_rsq_30.pdf
+file: /courses/9-01-neuroscience-and-behavior-fall-2003/5653f30463dae91c0d3a1580da20cc8e_rsq_30.pdf
 file_size: 90204
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides study questions for lecture 4 assigned readings
   (History and Goals IV).
-file: /ol-ocw-studio-app/courses/9-01-neuroscience-and-behavior-fall-2003/133581c6b5ab03eb6c5ee2b2b3c5082d_sq4.pdf
+file: /courses/9-01-neuroscience-and-behavior-fall-2003/133581c6b5ab03eb6c5ee2b2b3c5082d_sq4.pdf
 file_size: 100613
 file_type: application/pdf
 learning_resource_types:
