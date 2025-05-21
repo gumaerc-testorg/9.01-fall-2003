@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes a set of questions that were asked during end-of-class
   quizon the topic Sleep.
-file: /ol-ocw-studio-app/courses/9-01-neuroscience-and-behavior-fall-2003/bc7f937769714bd8d42258e7b2586d6c_quiz_spl_sleep.pdf
+file: /courses/9-01-neuroscience-and-behavior-fall-2003/bc7f937769714bd8d42258e7b2586d6c_quiz_spl_sleep.pdf
 file_size: 11844
 file_type: application/pdf
 learning_resource_types:

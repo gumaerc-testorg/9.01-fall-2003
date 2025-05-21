@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource lists 10 study questions for lecture 27.
-file: /ol-ocw-studio-app/courses/9-01-neuroscience-and-behavior-fall-2003/805bd87b09a7180e1de97d37f8230809_ques_lec_27_2003.pdf
+file: /courses/9-01-neuroscience-and-behavior-fall-2003/805bd87b09a7180e1de97d37f8230809_ques_lec_27_2003.pdf
 file_size: 100114
 file_type: application/pdf
 learning_resource_types: []

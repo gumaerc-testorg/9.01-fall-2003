@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource lists 3 student questions along with their answers for
   the course.
-file: /ol-ocw-studio-app/courses/9-01-neuroscience-and-behavior-fall-2003/91a5abe7fe5c429625f90e6db3324295_q_a_lec_5_6.pdf
+file: /courses/9-01-neuroscience-and-behavior-fall-2003/91a5abe7fe5c429625f90e6db3324295_q_a_lec_5_6.pdf
 file_size: 80993
 file_type: application/pdf
 learning_resource_types: []

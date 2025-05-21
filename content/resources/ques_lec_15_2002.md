@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource lists 6 study questions for lecture 15.
-file: /ol-ocw-studio-app/courses/9-01-neuroscience-and-behavior-fall-2003/c3d124c51d66d8fbfb712307f4c6370b_ques_lec_15_2002.pdf
+file: /courses/9-01-neuroscience-and-behavior-fall-2003/c3d124c51d66d8fbfb712307f4c6370b_ques_lec_15_2002.pdf
 file_size: 97108
 file_type: application/pdf
 learning_resource_types: []

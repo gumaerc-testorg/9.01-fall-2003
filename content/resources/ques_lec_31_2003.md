@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource lists 6 study questions for lecture 31.
-file: /ol-ocw-studio-app/courses/9-01-neuroscience-and-behavior-fall-2003/0d2fd83e12f8d4e2384e48f544e51824_ques_lec_31_2003.pdf
+file: /courses/9-01-neuroscience-and-behavior-fall-2003/0d2fd83e12f8d4e2384e48f544e51824_ques_lec_31_2003.pdf
 file_size: 94787
 file_type: application/pdf
 learning_resource_types: []
