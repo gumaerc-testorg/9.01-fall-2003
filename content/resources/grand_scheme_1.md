@@ -5,7 +5,7 @@ description: 'This resource lists main points on the goals, the neuron, evolutio
   development and anatomical plasticity of CNS, motor systems 1: reflexes and fixed
   action patterns (FAPs), motor systems 2: descending pathways and higher control
   and other topics.'
-file: /ol-ocw-studio-app/courses/9-01-neuroscience-and-behavior-fall-2003/92afefb8c8f2adc93212a89dc0fe598b_grand_scheme_1.pdf
+file: /courses/9-01-neuroscience-and-behavior-fall-2003/92afefb8c8f2adc93212a89dc0fe598b_grand_scheme_1.pdf
 file_size: 162887
 file_type: application/pdf
 learning_resource_types: []

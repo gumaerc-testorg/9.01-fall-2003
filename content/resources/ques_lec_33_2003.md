@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource lists 10 study questions for lecture 33, 34a.
-file: /ol-ocw-studio-app/courses/9-01-neuroscience-and-behavior-fall-2003/cf0933d016630516c3b0782ca413a5c1_ques_lec_33_2003.pdf
+file: /courses/9-01-neuroscience-and-behavior-fall-2003/cf0933d016630516c3b0782ca413a5c1_ques_lec_33_2003.pdf
 file_size: 99546
 file_type: application/pdf
 learning_resource_types: []
