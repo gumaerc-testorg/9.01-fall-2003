@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource lists 9 study questions for lecture 18.
-file: /courses/9-01-neuroscience-and-behavior-fall-2003/94239cc62cdc1710021d085205d5fac0_ques_lec_18_2003.pdf
+file: /ol-ocw-studio-app/courses/9-01-neuroscience-and-behavior-fall-2003/94239cc62cdc1710021d085205d5fac0_ques_lec_18_2003.pdf
 file_size: 110525
 file_type: application/pdf
 learning_resource_types: []

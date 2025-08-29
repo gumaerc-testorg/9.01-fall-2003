@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides readings study questions for lecture 23 (Rhythms
   of Activity, Sleep and Waking).
-file: /courses/9-01-neuroscience-and-behavior-fall-2003/929610539a8260bdd11d659e2e75d57f_lecture_23.pdf
+file: /ol-ocw-studio-app/courses/9-01-neuroscience-and-behavior-fall-2003/929610539a8260bdd11d659e2e75d57f_lecture_23.pdf
 file_size: 127429
 file_type: application/pdf
 learning_resource_types:
