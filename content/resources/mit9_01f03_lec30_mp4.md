@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: true
-file: courses/9-01-neuroscience-and-behavior-fall-2003/mit9_01f03_lec30_360p_16_9.mp4
+file: /ol-ocw-studio-app/courses/9-01-neuroscience-and-behavior-fall-2003/mit9_01f03_lec30_360p_16_9.mp4
 file_size: 47198503
 file_type: video/mp4
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides study questions for lecture 12 assigned readings
   (Spinal Cord, Autonomic NS).
-file: /courses/9-01-neuroscience-and-behavior-fall-2003/dea690eaf7bbc0095900c1f1fa5b2ad7_rsq_12.pdf
+file: /ol-ocw-studio-app/courses/9-01-neuroscience-and-behavior-fall-2003/dea690eaf7bbc0095900c1f1fa5b2ad7_rsq_12.pdf
 file_size: 94967
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes a set of questions that were asked during end-of-class
   quiz.
-file: /courses/9-01-neuroscience-and-behavior-fall-2003/b69a745738c295711484856b9e24c0e5_quiz_spl_17nov03.pdf
+file: /ol-ocw-studio-app/courses/9-01-neuroscience-and-behavior-fall-2003/b69a745738c295711484856b9e24c0e5_quiz_spl_17nov03.pdf
 file_size: 12298
 file_type: application/pdf
 learning_resource_types:
