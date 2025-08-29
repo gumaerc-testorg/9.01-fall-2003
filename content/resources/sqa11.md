@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides readings study questions on lecture 11 (Transection
   Effects, Neocortex).
-file: /courses/9-01-neuroscience-and-behavior-fall-2003/291e26ff6b746640338e5605de3113e7_sqa11.pdf
+file: /ol-ocw-studio-app/courses/9-01-neuroscience-and-behavior-fall-2003/291e26ff6b746640338e5605de3113e7_sqa11.pdf
 file_size: 97421
 file_type: application/pdf
 learning_resource_types:
